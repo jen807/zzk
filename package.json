@@ -35,7 +35,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "depoly": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "homepage": "https://jen807.github.io/zzk/#/",
   "eslintConfig": {
