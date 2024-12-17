@@ -1,6 +1,7 @@
 # 짝짝꿍
 
-## 프로젝트 github URL -https://github.com/jen807/zzk.git
+## 프로젝트 github URL
+https://github.com/jen807/zzk.git
 
 ## 목적
 
